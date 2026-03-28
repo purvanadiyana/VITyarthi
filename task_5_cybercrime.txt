@@ -1,0 +1,40 @@
+For **Task 5**, you need to research a cybercrime and create a prevention checklist. Here is the content for your case study, your checklist, and the final project report reflection.
+
+Part A: Cybercrime Case Study
+
+*Save this as `casestudy.md` or `casestudy.pdf` in your `task-5-cybercrime/` folder.*
+
+**Topic: UPI & Online Payment Fraud**
+
+**What it is:** UPI (Unified Payments Interface) fraud involves tricking a user into authorizing a transaction that sends money to a scammer’s account. Unlike traditional hacking, this relies on "social engineering"—manipulating the victim into taking action.
+
+**How it typically happens (Step-by-Step):**
+
+1.  **The Hook:** A scammer contacts the victim through a marketplace (like OLX) or a fake customer service call, expressing interest in buying an item or "fixing" an account issue.
+2.  **The "Receive" Trap:** The scammer sends a "Request Money" link or a QR code to the victim via a messaging app, claiming it is for the victim to *receive* payment.
+3.  **The Deception:** The scammer tells the victim they need to enter their UPI PIN to "verify" or "authorize" the receipt of funds.
+4.  **The Theft:** As soon as the victim enters their PIN, the money is instantly debited from their account and moved to the scammer's wallet or untraceable account.
+
+**Target:** College students, small-scale online sellers, and individuals unfamiliar with the technical rule that **you never need a PIN to receive money.**
+
+**Consequences:** Immediate financial loss, potential compromise of banking credentials, and psychological stress.
+
+-----
+
+Part B: 'Stay Safe Online' Checklist
+
+*Save this as `prevention-checklist.md` or `.txt` in your `task-5-cybercrime/` folder.*
+
+1.  **PIN Rule:** Never enter your UPI PIN to *receive* money. PINs are only for sending money.
+2.  **Verify Identities:** Always cross-check the identity of anyone asking for a financial transaction over a call or message.
+3.  **Official Apps Only:** Download banking and UPI apps only from the official Play Store or App Store.
+4.  **Enable 2FA:** Use Two-Factor Authentication (2FA) for all social media and email accounts.
+5.  **Secure Connections:** Avoid conducting financial transactions over public or unsecured Wi-Fi networks.
+6.  **Report Spam:** Use the "Block & Report" feature on WhatsApp or SMS for suspicious payment links.
+7.  **Limit Public Info:** Do not share your phone number or QR codes on public social media forums.
+8.  **Know the Helpline:** If scammed, immediately report it to the authorities.
+
+**Reporting Channels:**
+
+  * **National Cyber Crime Portal:** [suspicious link removed]
+  * **Helpline Number:** 1930
